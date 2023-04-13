@@ -1,3 +1,5 @@
+![](https://github.com/02cabanas/Flixster/blob/main/undefined%20-%20Imgur-4.gif)
+
 # Project 2 - *Flixter*
 
 Submitted by: **Your Name Here**
